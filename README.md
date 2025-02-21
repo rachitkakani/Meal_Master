@@ -39,7 +39,3 @@ An application that helps users organize food dishes efficiently with comprehens
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## 📬 Contact
-
-For queries, reach out via [your.email@example.com](mailto:your.email@example.com).
