@@ -1,16 +1,45 @@
-# meals_extended
+# 🍽️ Meal Master - A Meals App
 
-A new Flutter project.
+An application that helps users organize food dishes efficiently with comprehensive details, including recipes, ingredient lists, and nutritional values, enhancing meal planning.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- 📚 **20+ Recipes** with detailed ingredients and step-by-step preparation instructions.
+- 🥗 **Advanced Filtering System** supporting dietary preferences:
+  - Gluten-Free
+  - Lactose-Free
+  - Vegan
+  - Vegetarian
+- ⭐ **Favorite Marking** for quick access to preferred recipes.
+- 🖥️ **Intuitive UI** with a sidebar navigation system for seamless browsing.
+- 📱 **Cross-Device Compatibility** for an enhanced user experience across mobile and desktop devices.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/food-dishes-organizer.git
+   cd food-dishes-organizer
+   ```
+2. Install dependencies:
+   ```sh
+   flutter pub get
+   ```
+3. Run the application:
+   ```sh
+   flutter run
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter** (Dart)
+- **Riverpod** (State Management)
+
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+## 📬 Contact
+
+For queries, reach out via [your.email@example.com](mailto:your.email@example.com).
